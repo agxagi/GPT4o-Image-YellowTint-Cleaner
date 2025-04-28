@@ -39,24 +39,12 @@ cd GPT4o-Image-YellowTint-Cleaner
 
 2. Install the required dependencies:
 ```bash
-pip install pillow numpy
+pip install pillow numpy Gradio
 ```
 
 ## Usage
 
-1. Run the script to create the required folders:
-```bash
-python YellowTint_remover_v1.py
-```
-
-2. Place your yellow-tinted images in the `input_images` folder that was automatically created
-
-3. Run the script again to process all images:
-```bash
-python YellowTint_remover_v1.py
-```
-
-4. Find your processed images in the `output` folder
+Just run the YellowTint_remover_Gradio.bat file and copy past the URL to your Browser
 
 ## How It Works
 
