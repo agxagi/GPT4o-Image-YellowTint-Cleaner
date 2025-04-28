@@ -41,7 +41,7 @@ cd GPT4o-Image-YellowTint-Cleaner
 
 2. Install the required dependencies:
 ```bash
-pip install pillow numpy Gradio
+pip install -r requirements.txt
 ```
 
 ## Usage
