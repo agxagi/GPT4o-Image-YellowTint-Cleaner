@@ -6,9 +6,7 @@ It automatically processes images to remove yellow tints while preserving image 
 
 | Before | After |
 |--------|--------|
-| ![Before](![gpt4o_before](https://github.com/user-attachments/assets/531698d7-eece-476a-a173-38d18ae0a379)
-) | ![After](![gpt4o_after](https://github.com/user-attachments/assets/96642a1c-2668-4d1f-b297-e6208fd1b506)
-) |
+| ![Before](![gpt4o_before](https://github.com/user-attachments/assets/531698d7-eece-476a-a173-38d18ae0a379) | ![After](![gpt4o_after](https://github.com/user-attachments/assets/96642a1c-2668-4d1f-b297-e6208fd1b506) |
 
 ## Features
 
