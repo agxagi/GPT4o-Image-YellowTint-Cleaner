@@ -1,4 +1,4 @@
-# GPT4o-Image-YellowTint-Cleaner
+# GPT4o-Image-YellowTint-remover
 A simple & powerful Gradio based webapp to remove yellow tints from an image while preserving the image quality. It uses advanced image processing techniques including channel manipulation, histogram equalization, and color correction to restore natural-looking colors in yellowed images.
 
 ## Gradio WebApp Sample
