@@ -7,7 +7,6 @@ It automatically processes images to remove yellow tints while preserving image 
 | Before | After |
 |--------|--------|
 | ![Before][gpt4o_before](https://github.com/user-attachments/assets/531698d7-eece-476a-a173-38d18ae0a379) | ![After][gpt4o_after](https://github.com/user-attachments/assets/96642a1c-2668-4d1f-b297-e6208fd1b506) |
-| ![Before][gpt4o_before](https://github.com/user-attachments/assets/53d1c2b6-c224-4321-8fc6-7651cc615320) | ![After][gpt4o_after](https://github.com/user-attachments/assets/a33fdae0-6816-4e43-84a4-4775200fa725) |
 ## Features
 
 - **Automatic folder management**: Creates input and output directories on first run
