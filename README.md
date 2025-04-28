@@ -11,7 +11,9 @@ It automatically processes images to remove yellow tints while preserving image 
 | Before | After |
 |--------|--------|
 | ![Before](https://github.com/user-attachments/assets/531698d7-eece-476a-a173-38d18ae0a379) | ![After](https://github.com/user-attachments/assets/e56be65f-abc8-46f2-bed6-6b046c0e0735) | 
-| ![Before](https://github.com/user-attachments/assets/53d1c2b6-c224-4321-8fc6-7651cc615320) | ![After](https://github.com/user-attachments/assets/a33fdae0-6816-4e43-84a4-4775200fa725) |
+| ![Before](https://github.com/user-attachments/assets/40c500a9-8a35-42d2-af59-921bbe9b17ba) | ![After](https://github.com/user-attachments/assets/d8a2817b-4e16-4de6-bbc3-a85aa507249f) |
+
+
 
 ## Features
 
