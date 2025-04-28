@@ -1,7 +1,7 @@
 # GPT4o-Image-YellowTint-Cleaner
-It automatically processes images to remove yellow tints while preserving image quality. This utility uses advanced image processing techniques including channel manipulation, histogram equalization, and color correction to restore natural-looking colors in yellowed images.
+A simple & powerful Gradio based webapp to remove yellow tints from an image while preserving the image quality. It uses advanced image processing techniques including channel manipulation, histogram equalization, and color correction to restore natural-looking colors in yellowed images.
 
-## Gradio WebApp
+## Gradio WebApp Sample
 ![Gradio](https://github.com/user-attachments/assets/a3272c61-ea64-4c69-9490-4c0c835f4865)
 
 ## Best Setting 
@@ -12,24 +12,6 @@ It automatically processes images to remove yellow tints while preserving image 
 |--------|--------|
 | ![Before](https://github.com/user-attachments/assets/531698d7-eece-476a-a173-38d18ae0a379) | ![After](https://github.com/user-attachments/assets/e56be65f-abc8-46f2-bed6-6b046c0e0735) | 
 | ![Before](https://github.com/user-attachments/assets/40c500a9-8a35-42d2-af59-921bbe9b17ba) | ![After](https://github.com/user-attachments/assets/d8a2817b-4e16-4de6-bbc3-a85aa507249f) |
-
-
-
-## Features
-
-- **Automatic folder management**: Creates input and output directories on first run
-- **Batch processing**: Processes all images in the input folder with a single execution
-- **Multiple format support**: Works with JPG, PNG, BMP, TIFF, GIF, and WEBP images
-- **Non-destructive workflow**: Original images remain untouched while processed versions are saved to a separate output folder
-- **Advanced color correction**: Uses sophisticated channel manipulation and normalization techniques to remove yellow color casts
-
-## Installation
-
-### Prerequisites
-
-- Python 3.6 or higher
-- PIL/Pillow
-- NumPy
 
 ### Setup
 
