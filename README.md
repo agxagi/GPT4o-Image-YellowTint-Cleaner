@@ -6,6 +6,10 @@ It automatically processes images to remove yellow tints while preserving image 
 ## Before/After Comparison
 ![Gradio](https://github.com/user-attachments/assets/81713ccb-9f3b-4b85-9d1b-2e1761e2586e)
 
+## Best Setting 
+![setting](https://github.com/user-attachments/assets/053dd12d-dd9e-41ee-97d0-9de5c2be7635)
+
+
 | Before | After |
 |--------|--------|
 | ![Before](https://github.com/user-attachments/assets/531698d7-eece-476a-a173-38d18ae0a379) | ![After](https://github.com/user-attachments/assets/96642a1c-2668-4d1f-b297-e6208fd1b506) | 
