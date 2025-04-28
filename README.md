@@ -1,6 +1,6 @@
 # GPT4o-Image-YellowTint-Cleaner
-A 1 click Yellow Tint remover from GPT4o Raw images.
-A Python-based tool that automatically processes images to remove yellow tints while preserving image quality. This utility uses advanced image processing techniques including channel manipulation, histogram equalization, and color correction to restore natural-looking colors in yellowed images.
+A 1 click Yellow Tint remover for GPT4o images.
+It automatically processes images to remove yellow tints while preserving image quality. This utility uses advanced image processing techniques including channel manipulation, histogram equalization, and color correction to restore natural-looking colors in yellowed images.
 
 ## Before/After Comparison
 
@@ -29,7 +29,7 @@ A Python-based tool that automatically processes images to remove yellow tints w
 1. Clone this repository:
 ```bash
 git clone https://github.com/agxagi/GPT4o-Image-YellowTint-Cleaner.git
-cd yellow-tint-cleaner
+cd GPT4o-Image-YellowTint-Cleaner
 ```
 
 2. Install the required dependencies:
@@ -41,14 +41,14 @@ pip install pillow numpy
 
 1. Run the script to create the required folders:
 ```bash
-python yellow_tint_cleaner.py
+python YellowTint_remover_v1.py
 ```
 
 2. Place your yellow-tinted images in the `input_images` folder that was automatically created
 
 3. Run the script again to process all images:
 ```bash
-python yellow_tint_cleaner.py
+python YellowTint_remover_v1.py
 ```
 
 4. Find your processed images in the `output` folder
